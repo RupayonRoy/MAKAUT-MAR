@@ -1,6 +1,9 @@
 """
 MAKAUT-MAR
 Coding solutions for MAR points
+
+Aithor : Rupayon Roy
+Roll No.:23000118024
 """
 Code Editor : Jupyter Notebook
 
